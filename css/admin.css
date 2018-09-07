@@ -1,0 +1,79 @@
+/*CSS Custom Login*/
+
+  /*Final CSS Custom Login*/
+
+  body {
+    font-family: 'Roboto', 'Exo 2', sans-serif;
+    padding-top: 40px;
+
+}
+
+  .text-gray {
+    color: #48443D;
+  }
+  .text-gray-light {
+    color: #6D6E71;
+  }
+  .text-blue {
+    color: rgb(0, 104, 142) !important;
+  }
+
+  .title-name {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    letter-spacing: -2px
+  }
+
+  .title-function {
+    font-family: 'Exo 2', sans-serif;
+    text-transform: uppercase;
+    color: #6C6D71;
+    font-size: 28px;
+    font-weight: 300;
+    padding-bottom: 80px;
+
+  }
+
+  /*my center containers of page*/
+  .container-center{
+    color: rgb(0, 104, 142);
+    text-align: center;
+  }
+
+  .sectionDefault{
+
+  }
+
+  form {
+    max-width: 900px;
+    min-width: min-content;
+    margin: 0 auto;
+
+  }
+
+  #form-login{
+    max-width: 300px;
+    min-width: min-content;
+    margin: 0 auto;
+  }
+
+
+ #formularios{
+     margin-top: 30px;
+  }
+ .social-icon {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  #gpg {
+    display: block;
+    text-align: center;
+    padding: 12px;
+    margin: 0 0 0px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #f5f5f5;
+    background-color: #ffffff;
+  }
