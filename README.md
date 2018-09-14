@@ -1,2 +1,2 @@
 # WebTool
-# Essa ferramenta está sendo desenvolvida para tratar as rotinas de suporte técnico de um empresa.
+This tool is being developed to handle the technical support routines of a company.
